@@ -32,3 +32,75 @@
 | Database     | MongoDB              |
 | Authentication | Clerk              |
 | AI Services  | LLM APIs (e.g., OpenAI), Image Processing APIs |
+
+
+## 📦 Installation
+
+git clone <repo-url>
+
+cd server
+
+npm install
+
+# ⚙️ Environment Variables
+
+Create .env:
+
+PORT=5000
+
+# Clerk
+
+CLERK_PUBLISHABLE_KEY=
+
+CLERK_SECRET_KEY=
+
+# Neon
+
+DATABASE_URL=
+
+# Cloudinary
+
+CLOUDINARY_CLOUD_NAME=
+
+CLOUDINARY_API_KEY=
+
+CLOUDINARY_API_SECRET=
+
+# OpenAI
+
+OPENAI_API_KEY=
+
+▶️ Running the Server
+
+Development:
+
+npm run dev
+
+Runs at:
+
+http://localhost:5000
+
+
+## Frontend
+
+cd client
+
+npm install
+# ⚙️ Environment Variables
+
+Create .env in the root:
+
+VITE_CLERK_PUBLISHABLE_KEY=
+
+VITE_API_URL=http://localhost:5000
+# ▶️ Development
+
+npm run dev
+
+App runs at:
+
+http://localhost:5173
+
+
+## Screenshots
+
