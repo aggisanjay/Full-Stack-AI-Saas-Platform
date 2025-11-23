@@ -104,3 +104,17 @@ http://localhost:5173
 
 ## Screenshots
 
+# Login
+
+<img width="486" height="538" alt="image" src="https://github.com/user-attachments/assets/2fd7cc45-1a19-400b-8dd3-a4d8d8545cc2" />
+
+# Home
+
+<img width="1209" height="616" alt="image" src="https://github.com/user-attachments/assets/c8d979fd-7a86-4c73-83a8-98fe01432b72" />
+
+
+# Dashboard
+
+<img width="1296" height="644" alt="image" src="https://github.com/user-attachments/assets/1727d964-2ab7-47d4-8047-70704b13ee9c" />
+
+
